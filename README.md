@@ -7,7 +7,6 @@
 <p>Responsive Layout: In this way, a compatible appearance is provided even on different screen sizes.</p>
 <p>Modern Design.</p>
 <p>The payment system has been integrated with Stripe and is functioning correctly. Payments can be successfully processed as long as valid card information is entered.</p>
-<p></p>
 
 <h1>Technologies Used</h1>
 
@@ -19,6 +18,9 @@
 <li>NEXT.JS</li>
 <li>tailwindcss</li>
 <li>react-icons</li>
+<li>mongoose</li>
 <li>stripe(for payment)</li>
 
 <h1>Preview</h1>
+
+![Screen Recording 2025-06-11 at 13 42 44](https://github.com/user-attachments/assets/3f7d40b5-326d-4cac-9bb6-5ea9ca094e51)
